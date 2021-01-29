@@ -1,0 +1,42 @@
+
+Curso Práctico de HTML y CSS
+
+1.- INTRODUCCIÓN:  no son lenguajes de programación
+    HTML5: lenguaje que nos ayuda  a poder estructurar la informaciónq ue mostraremos
+         -trabaja con etiquetas 
+            -contenedoras: se abren y se cierran
+            -contenido: no siempre se abre y cierra
+    CSS3: lenguaje que nos ayuda a darle estilos 
+        selector (etiqueta)
+        clases: sellaman con .
+        id: le llaman con #
+        declaración :  color: red;
+            propiedad (color:)
+            valor: red
+
+2.-ANÁLISIS DEL PROYECTO GOOGLE CLONE
+    
+
+
+3.-
+
+
+4.-
+
+
+5.-
+
+
+6.-
+
+
+7.-
+
+
+8.-
+
+
+9.-
+
+
+10.-
